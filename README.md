@@ -90,29 +90,42 @@ com.example.smart.notes/
 
 ## 📱 App Screenshots
 
-| Splash & Home | Settings | Checklist & Canvas |
-| :---: | :---: | :---: |
-| ![Splash Screen](smartnotesscreenshots/notesplashimg1.JPG) | ![Settings](smartnotesscreenshots/notessettingimg3.JPG) | ![Checklist](smartnotesscreenshots/notechecklistimg10.JPG) |
-| ![Home Screen](smartnotesscreenshots/noteshomeimg2.JPG) | ![Background Selection](smartnotesscreenshots/notesbgselection12.JPG) | ![Canvas Drawing](smartnotesscreenshots/notescanvasdrawingtoolsimg4.JPG) |
+<p align="center">
+  <img src="smartnotesscreenshots/notesplashimg1.JPG" width="250" />
+  <img src="smartnotesscreenshots/noteshomeimg2.JPG" width="250" />
+  <img src="smartnotesscreenshots/notessettingimg3.JPG" width="250" />
+</p>
 
-### 🖼️ All Screenshots List
+<p align="center">
+  <img src="smartnotesscreenshots/notescanvasdrawingtoolsimg4.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesmanagecategoryimg5.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesselectionimg6.JPG" width="250" />
+</p>
 
-* **Splash Screen:** `![Splash Screen](smartnotesscreenshots/notesplashimg1.JPG)`[cite: 2]
-* **Home Screen:** `![Home Screen](smartnotesscreenshots/noteshomeimg2.JPG)`[cite: 2]
-* **Settings:** `![Settings](smartnotesscreenshots/notessettingimg3.JPG)`[cite: 2]
-* **Canvas Drawing Tools:** `![Canvas Tools](smartnotesscreenshots/notescanvasdrawingtoolsimg4.JPG)`[cite: 2]
-* **Manage Category:** `![Manage Category](smartnotesscreenshots/notesmanagecategoryimg5.JPG)`[cite: 2]
-* **Selection Mode:** `![Selection](smartnotesscreenshots/notesselectionimg6.JPG)`[cite: 2]
-* **Unpin/Unlock Popup:** `![Unlock Popup](smartnotesscreenshots/notesunpinlockpopupimg7.JPG)`[cite: 2]
-* **Screen View:** `![Screen](smartnotesscreenshots/notesscreenimg8.JPG)`[cite: 2]
-* **Text Palette:** `![Text Palette](smartnotesscreenshots/notetextplatteimg9.JPG)`[cite: 2]
-* **Checklist:** `![Checklist](smartnotesscreenshots/notechecklistimg10.JPG)`[cite: 2]
-* **Uploading State:** `![Uploading](smartnotesscreenshots/notesuploadimg11.JPG)`[cite: 2]
-* **Background Selection:** `![BG Selection](smartnotesscreenshots/notesbgselection12.JPG)`[cite: 2]
-* **Canvas Drawing Template:** `![Canvas Template](smartnotesscreenshots/notescanvasdrawingwithtempm.JPG)`[cite: 2]
-* **File PDF/Word Attachment:** `![File Attachment](smartnotesscreenshots/notesfilepdfwordattachmenti.JPG)`[cite: 2]
-* **Menu Popup:** `![Menu Popup](smartnotesscreenshots/notesmenupopupimg17.JPG)`[cite: 2]
-* **Widget Settings:** `![Widget Settings](smartnotesscreenshots/noteswidgetsettingsimg18.JPG)`[cite: 2]
-* **Widget Home:** `![Widget Home](smartnotesscreenshots/noteswidgetathomeimg19.JPG)`[cite: 2]
-* **Sync Screen:** `![Sync Screen](smartnotesscreenshots/notesyncimg4.JPG)`[cite: 2]
-* **Voice Recording:** `![Voice Recording](smartnotesscreenshots/notesvoicerecordingadditioni.JPG)`[cite: 2]
+<p align="center">
+  <img src="smartnotesscreenshots/notesunpinlockpopupimg7.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesscreenimg8.JPG" width="250" />
+  <img src="smartnotesscreenshots/notetextplatteimg9.JPG" width="250" />
+</p>
+
+<p align="center">
+  <img src="smartnotesscreenshots/notechecklistimg10.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesuploadimg11.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesbgselection12.JPG" width="250" />
+</p>
+
+<p align="center">
+  <img src="smartnotesscreenshots/notescanvasdrawingwithtempm.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesfilepdfwordattachmenti.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesmenupopupimg17.JPG" width="250" />
+</p>
+
+<p align="center">
+  <img src="smartnotesscreenshots/noteswidgetsettingsimg18.JPG" width="250" />
+  <img src="smartnotesscreenshots/noteswidgetathomeimg19.JPG" width="250" />
+  <img src="smartnotesscreenshots/notesyncimg4.JPG" width="250" />
+</p>
+
+<p align="center">
+  <img src="smartnotesscreenshots/notesvoicerecordingadditioni.JPG" width="250" />
+</p>
