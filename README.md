@@ -86,5 +86,13 @@ com.example.smart.notes/
 * **Gradle Version:** Compatible with Android Gradle Plugin (AGP) and Gradle wrapper configured in the project.
 * **Google Play Services:** Required on the device for Google Drive backup and sign-in functionality.
 
+## App Screenshots
 
+![Note Checklist](./smartnotesscreenshots/notechecklisting10.JPG)
+
+![Note Selection](./smartnotesscreenshots/noteselection12.JPG)
+
+![Note Home](./smartnotesscreenshots/noteshomeimg2.JPG)
+
+![Note Settings](./smartnotesscreenshots/notessettingimg3.JPG)
 
