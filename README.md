@@ -85,3 +85,34 @@ com.example.smart.notes/
 * **Java Version:** Java 21 (JDK 21 required for building)
 * **Gradle Version:** Compatible with Android Gradle Plugin (AGP) and Gradle wrapper configured in the project.
 * **Google Play Services:** Required on the device for Google Drive backup and sign-in functionality.
+
+
+
+## 📱 App Screenshots
+
+| Splash & Home | Settings | Checklist & Canvas |
+| :---: | :---: | :---: |
+| ![Splash Screen](smartnotesscreenshots/notesplashimg1.JPG) | ![Settings](smartnotesscreenshots/notessettingimg3.JPG) | ![Checklist](smartnotesscreenshots/notechecklistimg10.JPG) |
+| ![Home Screen](smartnotesscreenshots/noteshomeimg2.JPG) | ![Background Selection](smartnotesscreenshots/notesbgselection12.JPG) | ![Canvas Drawing](smartnotesscreenshots/notescanvasdrawingtoolsimg4.JPG) |
+
+### 🖼️ All Screenshots List
+
+* **Splash Screen:** `![Splash Screen](smartnotesscreenshots/notesplashimg1.JPG)`[cite: 2]
+* **Home Screen:** `![Home Screen](smartnotesscreenshots/noteshomeimg2.JPG)`[cite: 2]
+* **Settings:** `![Settings](smartnotesscreenshots/notessettingimg3.JPG)`[cite: 2]
+* **Canvas Drawing Tools:** `![Canvas Tools](smartnotesscreenshots/notescanvasdrawingtoolsimg4.JPG)`[cite: 2]
+* **Manage Category:** `![Manage Category](smartnotesscreenshots/notesmanagecategoryimg5.JPG)`[cite: 2]
+* **Selection Mode:** `![Selection](smartnotesscreenshots/notesselectionimg6.JPG)`[cite: 2]
+* **Unpin/Unlock Popup:** `![Unlock Popup](smartnotesscreenshots/notesunpinlockpopupimg7.JPG)`[cite: 2]
+* **Screen View:** `![Screen](smartnotesscreenshots/notesscreenimg8.JPG)`[cite: 2]
+* **Text Palette:** `![Text Palette](smartnotesscreenshots/notetextplatteimg9.JPG)`[cite: 2]
+* **Checklist:** `![Checklist](smartnotesscreenshots/notechecklistimg10.JPG)`[cite: 2]
+* **Uploading State:** `![Uploading](smartnotesscreenshots/notesuploadimg11.JPG)`[cite: 2]
+* **Background Selection:** `![BG Selection](smartnotesscreenshots/notesbgselection12.JPG)`[cite: 2]
+* **Canvas Drawing Template:** `![Canvas Template](smartnotesscreenshots/notescanvasdrawingwithtempm.JPG)`[cite: 2]
+* **File PDF/Word Attachment:** `![File Attachment](smartnotesscreenshots/notesfilepdfwordattachmenti.JPG)`[cite: 2]
+* **Menu Popup:** `![Menu Popup](smartnotesscreenshots/notesmenupopupimg17.JPG)`[cite: 2]
+* **Widget Settings:** `![Widget Settings](smartnotesscreenshots/noteswidgetsettingsimg18.JPG)`[cite: 2]
+* **Widget Home:** `![Widget Home](smartnotesscreenshots/noteswidgetathomeimg19.JPG)`[cite: 2]
+* **Sync Screen:** `![Sync Screen](smartnotesscreenshots/notesyncimg4.JPG)`[cite: 2]
+* **Voice Recording:** `![Voice Recording](smartnotesscreenshots/notesvoicerecordingadditioni.JPG)`[cite: 2]
